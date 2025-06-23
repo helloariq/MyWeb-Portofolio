@@ -1,10 +1,9 @@
 // Text animation
 
 const texts = [
-    "Technical Writer",
-    "Desain Grafis",
-    "Pemrograman",
-    "Conten Creator"
+    "Software Development",
+    "Administrasi",
+    "Desain Grafis"
 ]
 
 let speed = 150;
